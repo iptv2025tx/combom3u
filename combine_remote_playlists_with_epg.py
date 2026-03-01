@@ -5,6 +5,7 @@ import re
 # ===== CONFIGURATION =====
 # Add or remove playlist URLs here as needed
 PLAYLISTS = [
+        "https://github.com/BuddyChewChew/sports/raw/refs/heads/main/liveeventsfilter.m3u8", 
         "https://raw.githubusercontent.com/iptv2025tx/one-stop-2026/refs/heads/main/sinclair.m3u8",      
         "https://raw.githubusercontent.com/iptv2025tx/one-stop-2026/refs/heads/main/Iptv2025tx/Curated/combo-tvp-nc-moj.m3u8", 
         "https://raw.githubusercontent.com/iptv2025tx/one-stop-2026/refs/heads/main/turnerwbd.m3u8", 
@@ -25,8 +26,9 @@ PLAYLISTS = [
         "https://raw.githubusercontent.com/iptv2025tx/one-stop-2026/refs/heads/main/Iptv2025tx/HDHR/pittsburgh-pa-hdhr2.m3u8", 
         "https://raw.githubusercontent.com/iptv2025tx/one-stop-2026/refs/heads/main/Iptv2025tx/HDHR/rhinelander-wi-hdhr.m3u8", 
         "https://raw.githubusercontent.com/iptv2025tx/one-stop-2026/refs/heads/main/Iptv2025tx/HDHR/scranton-pa-hdhr.m3u8", 
+        "https://raw.githubusercontent.com/iptv2025tx/one-stop-2026/refs/heads/main/Iptv2025tx/OTT/roku.m3u8", 
         "https://raw.githubusercontent.com/iptv2025tx/one-stop-2026/refs/heads/main/Iptv2025tx/Curated/iheart1.m3u8", 
-        "https://github.com/BuddyChewChew/sports/raw/refs/heads/main/liveeventsfilter.m3u8", 
+        "https://raw.githubusercontent.com/iptv2025tx/one-stop-2026/refs/heads/main/Iptv2025tx/OTT/diablo.m3u8", 
     # Add more playlists here in the format: "URL_TO_PLAYLIST"
 ]
 
