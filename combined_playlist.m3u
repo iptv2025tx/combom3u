@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Generated on 2026-03-06T20:33:49.676838 UTC
+# Generated on 2026-03-07T02:01:26.492775 UTC
 
 #PLAYLIST:x get.php?username=live:persian_share&password=Hs6guU9ziF&type=m3u_plus&output=ts
 #EXTGRP:x get.php?username=live:persian_share&password=Hs6guU9ziF&type=m3u_plus&output=ts
@@ -7567,7 +7567,7 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49677
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/153365
 #EXTINF:-1,PPV 1 - (e)(1080)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/178774
-#EXTINF:-1,PPV 2 - (e)(720)
+#EXTINF:-1,PPV 2 - WWE (e)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/178775
 #EXTINF:-1,PPV 3 - (E)(1080)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/178776
@@ -12197,6 +12197,12 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/184998
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/184999
 #EXTINF:-1,Rugby | Six Natiosn 14:10 Ireland v. Wales (L)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/185000
+#EXTINF:-1,CMLL Lucha Libre
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/185170
+#EXTINF:-1,LMS | 19:00 Bravas vs Diablas
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/185171
+#EXTINF:-1,LMS | 19:00 Union Laguna vs Charras
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/185172
 #EXTINF:-1,Adultos + 18 - XXX:X1  TUSHY 2 TV  (M)(1080)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/163945
 #EXTINF:-1,Adultos + 18 - XXX:XXL (M)(720)
@@ -27945,6 +27951,10 @@ http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/326568.ts
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/326569.ts
 #EXTINF:-1, LCDLF 2026 COLOMBIA OPC.4
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/326570.ts
+#EXTINF:-1, WBC 2026. Opc. 1 | Eng.
+http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/328054.ts
+#EXTINF:-1, WBC 2026. Opc. 2 | Eng.
+http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/328055.ts
 #EXTINF:-1, CHL: CANAL 13
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/3311.ts
 #EXTINF:-1, MX || RAKUTEN VIKI Channel FHD/HD®
