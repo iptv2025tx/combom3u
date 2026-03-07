@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Generated on 2026-03-07T16:29:26.097069 UTC
+# Generated on 2026-03-07T20:27:28.386030 UTC
 
 #PLAYLIST:x get.php?username=live:persian_share&password=Hs6guU9ziF&type=m3u_plus&output=ts
 #EXTGRP:x get.php?username=live:persian_share&password=Hs6guU9ziF&type=m3u_plus&output=ts
@@ -12635,6 +12635,10 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/185765
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/185766
 #EXTINF:-1,EC | 03 • LIGA PR0 ( EXCLUSIVO CLIENTES ) (Z)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/185767
+#EXTINF:-1,PPV 5 - 
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/185768
+#EXTINF:-1,PPV 6
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/185769
 #EXTINF:-1,Adultos + 18 - XXX:X1  TUSHY 2 TV  (M)(1080)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/163945
 #EXTINF:-1,Adultos + 18 - XXX:XXL (M)(720)
@@ -26341,7 +26345,7 @@ http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/207603.ts
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/208379.ts
 #EXTINF:-1, SPORT KLUB 2 Fᴴᴰ
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/209652.ts
-#EXTINF:-1, Galatasaray Tv  ᴴᴰ
+#EXTINF:-1, Sky Sports+ Fᴴᴰ
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/210772.ts
 #EXTINF:-1, FRA:  L\'Equipe 21 (FHD)
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/210773.ts
