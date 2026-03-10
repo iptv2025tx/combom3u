@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Generated on 2026-03-09T20:36:17.459942 UTC
+# Generated on 2026-03-10T02:05:31.874525 UTC
 
 #PLAYLIST:x get.php?username=live:persian_share&password=Hs6guU9ziF&type=m3u_plus&output=ts
 #EXTGRP:x get.php?username=live:persian_share&password=Hs6guU9ziF&type=m3u_plus&output=ts
@@ -28147,7 +28147,7 @@ http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/298869.ts
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/300128.ts
 #EXTINF:-1, BOL: TIGO Sports (Fútbol en VIVO) BO ᴴᴰ
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/300129.ts
-#EXTINF:-1, VEN:  GrandeTV HD (Variado)
+#EXTINF:-1, VEN:  Venevisión Internacional HD (Variado)
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/307510.ts
 #EXTINF:-1, Rᴇʟɪɢɪoɴ ʜᴅ | 3ABN LATINO FHD* (CU)
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/309130.ts
