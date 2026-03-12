@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Generated on 2026-03-12T02:10:45.377749 UTC
+# Generated on 2026-03-12T05:15:38.567137 UTC
 
 #PLAYLIST:x get.php?username=live:persian_share&password=Hs6guU9ziF&type=m3u_plus&output=ts
 #EXTGRP:x get.php?username=live:persian_share&password=Hs6guU9ziF&type=m3u_plus&output=ts
@@ -24109,7 +24109,7 @@ http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/160991.ts
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/160992.ts
 #EXTINF:-1, MX ||  TVP Culiacán - (HD)®
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/160994.ts
-#EXTINF:-1, MX || El Sonorense TV (HD)®
+#EXTINF:-1, MX || Adrenalina NetWork (HD)®
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/160995.ts
 #EXTINF:-1, MX || Tele Yucatan (HD)®
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/160996.ts
@@ -25375,7 +25375,7 @@ http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/181904.ts
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/183042.ts
 #EXTINF:-1, NFL Live | NFL #11 (Dazn)
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/183043.ts
-#EXTINF:-1, MX || Canal Sony One Novelas MX (FHD)®
+#EXTINF:-1, MX || Canal  Novelas MX (FHD)®
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/183051.ts
 #EXTINF:-1, CINE: CINE ESTRELLA TV UHD®
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/183060.ts
