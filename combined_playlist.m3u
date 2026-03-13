@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Generated on 2026-03-13T02:08:35.936812 UTC
+# Generated on 2026-03-13T05:13:27.916526 UTC
 
 #PLAYLIST:x get.php?username=live:persian_share&password=Hs6guU9ziF&type=m3u_plus&output=ts
 #EXTGRP:x get.php?username=live:persian_share&password=Hs6guU9ziF&type=m3u_plus&output=ts
@@ -10737,11 +10737,11 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/156164
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/156172
 #EXTINF:-1,PPV - Serie A: Dazn Sport 1 (TV)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/156173
-#EXTINF:-1,[PRIVATE] ES:Movistar Deportes (M)(720)
+#EXTINF:-1,ES:Movistar Deportes (M)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162022
-#EXTINF:-1,[PRIVATE] ES:Movistar Fórmula 1 (M)(720)
+#EXTINF:-1,ES:Movistar Fórmula 1 (M)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162020
-#EXTINF:-1,[PRIVATE] ES:Movistar Liga de Campeones (M)(720)
+#EXTINF:-1,ES:Movistar Liga de Campeones (M)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162019
 #EXTINF:-1,ES DAZN 1 F(M)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/161922
