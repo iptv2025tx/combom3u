@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Generated on 2026-03-16T13:15:15.333400 UTC
+# Generated on 2026-03-16T17:02:55.756029 UTC
 
 #PLAYLIST:x get.php?username=live:persian_share&password=Hs6guU9ziF&type=m3u_plus&output=ts
 #EXTGRP:x get.php?username=live:persian_share&password=Hs6guU9ziF&type=m3u_plus&output=ts
@@ -12107,46 +12107,6 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187987
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187988
 #EXTINF:-1,24/7 Como dice el dicho (e)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/188477
-#EXTINF:-1,Liga MX | 19:00 América vs. Mazatlán FC
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/188715
-#EXTINF:-1,Liga MX Fem | 20:00 Tigres vs Querétaro
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/188719
-#EXTINF:-1,Arg | 19:00 Unión vs Boca Juniors
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/188746
-#EXTINF:-1,Arg | 19:00 Tigre vs Argentinos Juniors
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/188747
-#EXTINF:-1,Colombia | 19:30 Junior vs Fortaleza CEIF
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/188758
-#EXTINF:-1,BFA Premier League | 18:00 Ellerton FC vs Wotton FC
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/188783
-#EXTINF:-1,Honduras | 19:30 Victoria vs Platense
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/188795
-#EXTINF:-1,Beisbol | Clasico Mundial 18:00 United States at Dominican Republic
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/188944
-#EXTINF:-1,NBA 06 | 18:00 Warriors vs. Knicks
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/188950
-#EXTINF:-1,NBA 07 | 20:00 Kings vs Jazz
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/188951
-#EXTINF:-1,Basket | Clasif Mundial Fem 18:00 Puerto Rico vs. Senegal
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/188959
-#EXTINF:-1,NHL 04 | 17:30 Minnesota Wild vs Toronto Maple Leafs
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/188965
-#EXTINF:-1,NHL 05 | 18:00  Nashville Predators vs.Edmonton Oilers
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/188966
-#EXTINF:-1,NHL 06 | 18:00  Florida Panthers vs.Seattle Kraken
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/188967
-#EXTINF:-1,AEW: Revolution - Zero Hour 17:00
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/188995
-#EXTINF:-1,AEW: Revolution 2026 18:00
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/188996
-#EXTINF:-1,BOX | 18:00 Ring Royale Trejo vs Adame
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/188998
-#EXTINF:-1,Vive Latino 2026 Canal 1
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189001
-#EXTINF:-1,Vive latino 2026 Canal 2
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189002
-#EXTINF:-1,Vive latino 2026 Canal 3
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189003
 #EXTINF:-1,Greenland: 2 Migration (2026)
 http://tv.diablotv.net:8080/movie/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180290.mkv
 #EXTINF:-1,Sin piedad (2026)
@@ -12157,6 +12117,106 @@ http://tv.diablotv.net:8080/movie/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180292.mkv
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189022
 #EXTINF:-1,PPV 2 - New Encoder 2 (e)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189023
+#EXTINF:-1,US | Sunday NFL Red Zone
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189024
+#EXTINF:-1,US | Sunday NFL Red Zone
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189025
+#EXTINF:-1,Liga MX Fem | 19:00 Atlas vs Rayadas
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189026
+#EXTINF:-1,Liga MX Fem | 20:00 América vs. Toluca
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189027
+#EXTINF:-1,Liga MX Fem | 21:00 León vs Mazatlán
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189028
+#EXTINF:-1,Premier League | 14:00 Brentford vs. Wolves
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189029
+#EXTINF:-1,LALIGA | 14:00 Rayo Vallecano vs.Levante UD
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189030
+#EXTINF:-1,Serie A | 13:45 Cremonese vs. Fiorentina
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189031
+#EXTINF:-1,Arg | 12:30 Aldosivi vs. Huracán
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189032
+#EXTINF:-1,Arg | 12:30 Barracas Central vs Atlético Tucumán
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189033
+#EXTINF:-1,Arg | 15:30 San Lorenzo vs Defensa y Justicia
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189034
+#EXTINF:-1,Arg | 17:00 Racing Club vs. Estudiantes de Río Cuarto
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189035
+#EXTINF:-1,Arg | 19:15 Instituto vs Independiente
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189036
+#EXTINF:-1,Championship | 14:00 Portsmouth vs. Derby County
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189037
+#EXTINF:-1,LaLiga SmartBank | 13:30 Albacete vs Las Palmas
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189038
+#EXTINF:-1,Uruguay | 14:00 Danubio vs. Juventud
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189039
+#EXTINF:-1,Uruguay | 17:00 Liverpool FC vs. Montevideo City Torque
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189040
+#EXTINF:-1,Brasileirao | 17:00 Chapecoense vs Grêmio
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189041
+#EXTINF:-1,Chile | 15:00 Unión La Calera vs O'Higgins
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189042
+#EXTINF:-1,Chile | 17:30 Colo-Colo vs Huachipato
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189043
+#EXTINF:-1,Serie C | 13:30 Vicenza vs Inter de Milán Sub-23
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189044
+#EXTINF:-1,Polonia | 12:00 Pogoń Szczecin vs Korona Kielce
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189045
+#EXTINF:-1,13:00 NCAA Baseball Dayton vs.Lindenwood
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189046
+#EXTINF:-1,17:30 NCAA Baseball Cincinnati vs.Utah Valley
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189047
+#EXTINF:-1,18:00 NCAA Baseball Harvard vs.California Baptist
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189048
+#EXTINF:-1,10:00 NCAA Womens Lacrosse Iona vs.Austin Peay
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189049
+#EXTINF:-1,MLB 01 | 11:05 Pittsburgh Pirates vs Minnesota Twins
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189050
+#EXTINF:-1,MLB 02 | 11:05 Tampa Bay Rays vs Atlanta Braves
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189051
+#EXTINF:-1,MLB 03 | 11:10 Toronto Blue Jays vs Miami Marlins
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189052
+#EXTINF:-1,MLB 04 | 14:05 Milwaukee Brewers vs Los Angeles Dodgers
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189053
+#EXTINF:-1,MLB 05 | 14:10 San Francisco Giants vs San Diego Padres
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189054
+#EXTINF:-1,MLB 06 | 16:05 Boston Red Sox vs Baltimore Orioles
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189055
+#EXTINF:-1,MLB 07 | 16:10 Washington Nationals vs New York Mets
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189056
+#EXTINF:-1,MLB 08 | 18:05 Chicago White Sox vs Texas Rangers
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189057
+#EXTINF:-1,MLB 09 | 19:05 Chicago Cubs vs Cleveland Guardians
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189058
+#EXTINF:-1,Beisbol | Clasico Mundial 18:00 Venezuela at Italy
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189059
+#EXTINF:-1,NBA 01 | 17:00 Magic vs. Hawks
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189060
+#EXTINF:-1,NBA 02 | 17:00 Wizards vs Warriors
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189061
+#EXTINF:-1,NBA 03 | 17:30 Celtics vs Suns
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189062
+#EXTINF:-1,NBA 04 | 17:30 Nets vs Trail Blazers
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189063
+#EXTINF:-1,NBA 05 | 18:00 Bulls vs Grizzlies
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189064
+#EXTINF:-1,NBA 06 | 18:00 Pelicans vs Mavericks
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189065
+#EXTINF:-1,NBA 07 | 19:30 Lakers vs. Rockets
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189066
+#EXTINF:-1,NBA 08 | 20:00 Clippers vs Spurs
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189067
+#EXTINF:-1,Basket | Clasif Mundial Fem 23:30 South Sudan vs. Mali
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189068
+#EXTINF:-1,NHL 01 | 17:00 Calgary Flames vs.Detroit Red Wings
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189069
+#EXTINF:-1,NHL 02 | 17:00 New Jersey Devils vs Boston Bruins
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189070
+#EXTINF:-1,NHL 03 | 17:00 Los Angeles Kings vs.New York Rangers
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189071
+#EXTINF:-1,NHL 04 | 18:00 Dallas Stars vs Utah Mammoth
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189072
+#EXTINF:-1,NHL 05 | 19:30 Colorado Avalanche vs Pittsburgh Penguins
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189073
 #EXTINF:-1,Adultos + 18 - XXX:X1  TUSHY 2 TV  (M)(1080)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/163945
 #EXTINF:-1,Adultos + 18 - XXX:XXL (M)(720)
@@ -27495,7 +27555,7 @@ http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/296698.ts
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/296699.ts
 #EXTINF:-1, Cuéntame cómo pasó ᴇsᴘᴀɴᴀ ᴴᴰ
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/296705.ts
-#EXTINF:-1, Baywatch Los Vigilantes de la Playa ᴇsᴘᴀɴᴀ ᴴᴰ
+#EXTINF:-1, Crimen & Historia ᴇsᴘᴀɴᴀ ᴴᴰ
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/296706.ts
 #EXTINF:-1, Corazón ᴇsᴘᴀɴᴀ ᴴᴰ
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/296708.ts
@@ -27505,7 +27565,7 @@ http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/296712.ts
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/296714.ts
 #EXTINF:-1, Todo Novelas ᴇsᴘᴀɴᴀ ᴴᴰ
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/296715.ts
-#EXTINF:-1, GoUSA TV ᴇsᴘᴀɴᴀ ᴴᴰ
+#EXTINF:-1, CINE ACCIÓN Rakuten TV ᴇsᴘᴀɴᴀ ᴴᴰ
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/296716.ts
 #EXTINF:-1, USA: One America News Network HD
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/297437.ts
