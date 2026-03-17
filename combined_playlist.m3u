@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Generated on 2026-03-16T20:39:44.889898 UTC
+# Generated on 2026-03-17T02:10:59.635833 UTC
 
 #PLAYLIST:x get.php?username=live:persian_share&password=Hs6guU9ziF&type=m3u_plus&output=ts
 #EXTGRP:x get.php?username=live:persian_share&password=Hs6guU9ziF&type=m3u_plus&output=ts
@@ -20643,7 +20643,7 @@ http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/145496.ts
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/145499.ts
 #EXTINF:-1, ᴜsᴀ Spᴏʀᴛs ᴴᴰ | SPORTS ESPN U HD
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/145500.ts
-#EXTINF:-1, USA: Boxing FHD
+#EXTINF:-1, USA: HBO Boxing FHD
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/145501.ts
 #EXTINF:-1, Sports | BOX Epic HD
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/145502.ts
@@ -24809,7 +24809,7 @@ http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/162116.ts
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/162117.ts
 #EXTINF:-1, PPV5| GAME+ FHD ᵂᵂᴱ
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/162118.ts
-#EXTINF:-1, USA: CW 69 ATLANTA USA
+#EXTINF:-1, USA: CBS News Baltimore HD*
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/162123.ts
 #EXTINF:-1, USA: TELEMUNDO SALT LAKE CITY
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/162124.ts
