@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Generated on 2026-03-20T05:16:06.643969 UTC
+# Generated on 2026-03-20T08:41:57.482085 UTC
 
 #PLAYLIST:x get.php?username=live:persian_share&password=Hs6guU9ziF&type=m3u_plus&output=ts
 #EXTGRP:x get.php?username=live:persian_share&password=Hs6guU9ziF&type=m3u_plus&output=ts
@@ -28279,12 +28279,6 @@ http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/314720.ts
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/328059.ts
 #EXTINF:-1, 19/03 14:00 UTC-6: FC Porto vs Stuttgart
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/328071.ts
-#EXTINF:-1, 19/03 10:06 UTC-6: Nicaragua Sub17 (F) vs El Salvador Sub17 (F)
-http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/328094.ts
-#EXTINF:-1, 19/03 11:00 UTC-6: Besiktas vs Kasimpasa
-http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/328095.ts
-#EXTINF:-1, 19/03 11:45 UTC-6: FC Midtjylland vs Nottingham Forest
-http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/328096.ts
 #EXTINF:-1, 19/03 14:00 UTC-6: Real Betis vs Panathinaikos
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/328097.ts
 #EXTINF:-1, 19/03 17:00 UTC-6: Mount Pleasant vs Los Angeles Galaxy
@@ -28293,12 +28287,6 @@ http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/328098.ts
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/328099.ts
 #EXTINF:-1, 20/03 15:00 UTC-6: Águilas Doradas vs América de Cali
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/328100.ts
-#EXTINF:-1, 19/03 11:45 UTC-6: Lyon vs Celta de Vigo
-http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/328101.ts
-#EXTINF:-1, 19/03 11:45 UTC-6: Friburgo vs KRC Genk
-http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/328102.ts
-#EXTINF:-1, 19/03 12:36 UTC-6: Jamaica Sub17 (F) vs Costa Rica Sub17 (F)
-http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/328103.ts
 #EXTINF:-1, 19/03 13:00 UTC-6: Flamengo Sub20 vs Olimpia Sub20
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/328104.ts
 #EXTINF:-1, 19/03 14:00 UTC-6: Aston Villa vs Lille
