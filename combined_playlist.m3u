@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Generated on 2026-03-20T02:09:54.038983 UTC
+# Generated on 2026-03-20T05:16:06.643969 UTC
 
 #PLAYLIST:x get.php?username=live:persian_share&password=Hs6guU9ziF&type=m3u_plus&output=ts
 #EXTGRP:x get.php?username=live:persian_share&password=Hs6guU9ziF&type=m3u_plus&output=ts
@@ -24611,7 +24611,7 @@ http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/161411.ts
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/161412.ts
 #EXTINF:-1, BRA_2: Rede Brasil (HD)
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/161413.ts
-#EXTINF:-1, BRA_2:CINE FAMILIA Pluto (HD)
+#EXTINF:-1, BRA_2: CINE FAMILIA (HD)
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/161415.ts
 #EXTINF:-1, BRA_2: BAND ISTV (HD)
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/161417.ts
@@ -28277,8 +28277,6 @@ http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/313640.ts
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/314720.ts
 #EXTINF:-1, LATAM | CLARO SPORTS 2®
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/328059.ts
-#EXTINF:-1, 17/03 19:30 UTC-6: Millonarios vs Atlético Nacional
-http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/328068.ts
 #EXTINF:-1, 19/03 14:00 UTC-6: FC Porto vs Stuttgart
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/328071.ts
 #EXTINF:-1, 19/03 10:06 UTC-6: Nicaragua Sub17 (F) vs El Salvador Sub17 (F)
@@ -28377,6 +28375,8 @@ http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/328139.ts
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/328140.ts
 #EXTINF:-1, 21/03 16:15 UTC-6: Nashville SC vs Orlando City SC
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/328141.ts
+#EXTINF:-1, 20/03 13:00 UTC-6: Pau FC vs Montpellier
+http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/328142.ts
 #EXTINF:-1, Millennium 1: Los hombres que no amaban a las mujeres (2009)
 http://00322.xyz:8000/vod/PmPLUS/2048dw23Do0/125957.mp4
 #EXTINF:-1, Latte y la Piedra de Agua Mágica (2019)
