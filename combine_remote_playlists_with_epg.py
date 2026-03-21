@@ -5,11 +5,12 @@ import re
 # ===== CONFIGURATION =====
 # Add or remove playlist URLs here as needed
 PLAYLISTS = [
-        "http://boxserver.live:8080/get.php?username=@ParsX0101Restream&password=cT6AtegZxkCS&type=m3u_plus&output=ts", 
-        "http://apx-me.com:8880/get.php?username=live:persian_share&password=Hs6guU9ziF&type=m3u_plus&output=ts", 
-        "http://hg234gb4r5y23vbtby4gsa43l.wtvplus.co:8080/get.php?username=tvsF4asfrg3fcva&password=s234f0w2E309g4n0fo3&type=m3u_plus&output=ts", 
-        "http://tv.diablotv.net:8080/get.php?username=eEiiLll09384Ecaiman34RtR&password=KTap2pdJx7&type=m3u&output=ts",
-        "http://00322.xyz:8000/get.php?username=PmPLUS&password=2048dw23Do0&type=m3u&output=ts", 
+        "https://github.com/iptv2025tx/star-jump/raw/refs/heads/main/link/ott/aceray50.m3u8", 
+        "https://github.com/iptv2025tx/star-jump/raw/refs/heads/main/link/ott/diablo.m3u8", 
+        "https://github.com/iptv2025tx/star-jump/raw/refs/heads/main/link/ott/combo-moj-tvp.m3u8", 
+        "https://github.com/iptv2025tx/star-jump/raw/refs/heads/main/link/ott/ott-news.m3u8", 
+        "https://github.com/iptv2025tx/star-jump/raw/refs/heads/main/link/ott/religion.m3u8", 
+        "https://github.com/iptv2025tx/star-jump/raw/refs/heads/main/link/ott/heart.m3u8", 
     # Add more playlists here in the format: "URL_TO_PLAYLIST"
 ]
 
