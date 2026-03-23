@@ -7,6 +7,7 @@ import re
 PLAYLISTS = [
         "https://github.com/iptv2025tx/star-jump/raw/refs/heads/main/link/ott/aceray50.m3u8", 
         "https://github.com/iptv2025tx/star-jump/raw/refs/heads/main/link/ott/diablo.m3u8", 
+        "https://github.com/iptv2025tx/star-jump/raw/refs/heads/main/link/ott/a1xs.m3u8", 
         "https://github.com/iptv2025tx/star-jump/raw/refs/heads/main/link/ott/combo-moj-tvp.m3u8", 
         "https://github.com/iptv2025tx/star-jump/raw/refs/heads/main/link/ott/ott-news.m3u8", 
         "https://github.com/iptv2025tx/star-jump/raw/refs/heads/main/link/ott/religion.m3u8", 
