@@ -5,6 +5,7 @@ import re
 # ===== CONFIGURATION =====
 # Add or remove playlist URLs here as needed
 PLAYLISTS = [
+        "https://github.com/iptv2025tx/star-jump/raw/refs/heads/main/link/ott/drew-custom.m3u8", 
         "https://github.com/iptv2025tx/star-jump/raw/refs/heads/main/link/ott/aceray50.m3u8", 
         "https://github.com/iptv2025tx/star-jump/raw/refs/heads/main/link/ott/diablo.m3u8", 
         "https://github.com/iptv2025tx/star-jump/raw/refs/heads/main/link/ott/a1x.m3u8", 
