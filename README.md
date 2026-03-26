@@ -9,7 +9,7 @@ UPDATE:
 ▶️ One big playlist with EPG included. If EPG is incorrect please place an issue. 
 
 
-M3U: https://raw.githubusercontent.com/iptv2025tx/Combined/refs/heads/main/combined_playlist.m3u
+M3U: https://github.com/iptv2025tx/combom3u/raw/refs/heads/main/dr_playlist.m3u
 
 Links used in the script:
 
