@@ -17,6 +17,7 @@ PLAYLISTS = [
         "https://github.com/iptv2025tx/star-jump/raw/refs/heads/main/link/ott/dancetv.m3u8", 
         "https://github.com/iptv2025tx/star-jump/raw/refs/heads/main/link/ott/PlutoUS.m3u8", 
         "https://github.com/iptv2025tx/star-jump/raw/refs/heads/main/link/ott/PlutoGB.m3u8", 
+        "https://github.com/iptv2025tx/star-jump/raw/refs/heads/main/link/ott/tubi.m3u8", 
         "https://github.com/iptv2025tx/star-jump/raw/refs/heads/main/link/ott/Xumo.m3u8", 
         "https://github.com/iptv2025tx/star-jump/raw/refs/heads/main/link/ott/plex_us.m3u8", 
         "https://github.com/iptv2025tx/star-jump/raw/refs/heads/main/link/ott/SSUNGUS.m3u8", 
