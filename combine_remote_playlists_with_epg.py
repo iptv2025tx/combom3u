@@ -8,7 +8,6 @@ PLAYLISTS = [
         "https://github.com/iptv2025tx/star-jump/raw/refs/heads/main/link/ott/drew-custom.m3u8", 
         "https://github.com/iptv2025tx/star-jump/raw/refs/heads/main/link/ott/uscable.m3u8", 
         "https://github.com/iptv2025tx/star-jump/raw/refs/heads/main/link/ott/aceray50.m3u8", 
-        "https://github.com/iptv2025tx/star-jump/raw/refs/heads/main/link/ott/diablo.m3u8", 
         "https://github.com/iptv2025tx/star-jump/raw/refs/heads/main/link/ott/a1x.m3u8", 
         "https://github.com/iptv2025tx/star-jump/raw/refs/heads/main/link/ott/combo-moj-tvp.m3u8", 
         "https://github.com/iptv2025tx/star-jump/raw/refs/heads/main/link/ott/ott-news.m3u8", 
