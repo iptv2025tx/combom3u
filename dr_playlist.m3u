@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://tinyurl.com/drepg"
-# Generated on 2026-04-11T13:01:38.677399 UTC
+# Generated on 2026-04-11T18:47:58.579710 UTC
 
 #PLAYLIST:x drew-custom
 #EXTGRP:x drew-custom
@@ -8441,6 +8441,8 @@ https://tv.extremeiptv.net/live/Marc/Marc/1e9d4bff-657f-4442-8ce0-2f7d930590f2.m
 https://tv.extremeiptv.net/live/Marc/Marc/2d4485a5-c2be-40f4-a4f8-43b4dbb909bc.m3u
 #EXTINF:-1 tvg-id="Spectrum.News.-.NY1.-.STVA.us2" tvg-name="Spectrum News 1 NY NYC" group-title="ENG | News",Spectrum News 1 NY NYC
 http://verostreamtv.com:80/76854356/48SH4AC/1284270
+#EXTINF:-1 tvg-id="Spectrum.News.-.NY1.-.STVA.us2" tvg-name="Spectrum News 1 NY NYC (Alt)" group-title="ENG | News",Spectrum News 1 NY NYC (Alt)
+http://hostengine.live/live/60seconds/moresimple/308665.m3u
 #EXTINF:-1 tvg-id="Spectrum.News.-.(New.York).Rochester.STVA.us2" tvg-name="Spectrum News 1 NY Rochester " group-title="ENG | News",Spectrum News 1 NY Rochester 
 https://tv.extremeiptv.net/live/Marc/Marc/33db2a3f-bd35-4ea0-bc26-fed05b895b5d.m3u
 #EXTINF:-1 tvg-id="Spectrum.News.1.-.Cincinnati.-.STVA.us2" tvg-name="Spectrum News 1 OH Cincinnati " group-title="ENG | News",Spectrum News 1 OH Cincinnati 
